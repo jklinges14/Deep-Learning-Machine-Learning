@@ -15,38 +15,38 @@ Example: customer complaints or number of flaws or defects, Children per Househo
 Continuous variable (Quantitative): Numeric variables that have an infinite number of values between any two values. Example: length of a part or the date and time a payment is received, running distance, age (infinitly accurate and use an infinite number of decimal places)
 Data Use
 For 'Quantitative data' is used with all three centre measures (mean, median and mode) and all spread measures.
-For 'Class data' is used with median and mode.
-For 'Qualitative data' is for only with mode.
+For 'Class data' is used with median and mode. "\n",
+For 'Qualitative data' is for only with mode. "\n",
 Two types of problems:
-Classification (predict label)
+Classification (predict label) "\n", "\n",
 Regression (predict values)
 Python Reviews
-Step 1 through step 8 is a reviews in python.
-After step 8, everything you need to know that is relate to data analysis, data engineering, data science, machine learning, and deep learning.
+Step 1 through step 8 is a reviews in python. "\n",
+After step 8, everything you need to know that is relate to data analysis, data engineering, data science, machine learning, and deep learning. "\n",
 
-List of Machine Learning Algorithms for Stock Trading
-Most Common Regression Algorithms
-Simple Linear Regression Model
-Logistic Regression
-Lasso Regression
-Support Vector Machines
-Polynomial Regression
-Stepwise Regression
-Ridge Regression
-Multivariate Regression Algorithm
-Multiple Regression Algorithm
-K Means Clustering Algorithm
-Naïve Bayes Classifier Algorithm
-Random Forests
-Decision Trees
-Nearest Neighbours
-Lasso Regression
-ElasticNet Regression
-Reinforcement Learning
-Artificial Intelligence
-MultiModal Network
-Biologic Intelligence
-Different Types of Machine Learning Algorithms and Models
+List of Machine Learning Algorithms for Stock Trading "\n",
+Most Common Regression Algorithms "\n", 
+Simple Linear Regression Model "\n",
+Logistic Regression "\n", 
+Lasso Regression "\n",
+Support Vector Machines "\n", 
+Polynomial Regresssion "\n", 
+Stepwise Regression "\n", 
+Ridge Regression "\n", 
+Multivariate Regression Algorithm "\n",
+Multiple Regression Algorithm "\n", 
+K Means Clustering Algorithm "\n",
+Naïve Bayes Classifier Algorithm "\n",
+Random Forests "\n",
+Decision Trees "\n", 
+Nearest Neighbours "\n",
+Lasso Regression "\n", 
+ElasticNet Regression "\n",
+Reinforcement Learning  "\n", 
+Artificial Intelligence "\n",
+MultiModal Network  "\n",
+Biologic Intelligence "\n",
+Different Types of Machine Learning Algorithms and Models "\n",
 Algorithms is a process and set of instructions to solve a class of problems. In addition, algorithms perform a computation such as calculations, data processing, automated reasoning, and other tasks. A machine learning algorithms is a method that provides the systems to have the ability to automatically learn and improve from experience without being formulated.
 
 Prerequistes
